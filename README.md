@@ -10,7 +10,7 @@
 ### FiveM / CitizenFX
 - **Docs (C#): common server runtime functions** – Expanded the C# server runtime documentation with practical examples (events, HTTP, players) so C# users have copy‑pasteable patterns, not just "use IntelliSense".
 - **Docs (C#): TriggerClientEvent (server)** – Added a dedicated C# page for `TriggerClientEvent` on the server side, with beginner‑friendly examples for broadcasting, targeting a single player, and sending small custom payloads.
-  - PR: https://github.com/citizenfx/fivem-docs/pull/XXXX <!-- replace with actual PR number when available -->
+  - PR: https://github.com/citizenfx/fivem-docs/pull/579
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
