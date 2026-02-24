@@ -20,8 +20,8 @@ Languages
 
 # 🛠️ Open Source Work
 
-## MCX
-- **Development of a multiplayer platform for Minecraft, in C++, Java, and Lua
+## MCX: https://github.com/alanparesys/MCX
+- Development of a multiplayer platform for Minecraft, in C++, Java, and Lua
 - Open source project: code sharing and collaboration with the community on GitHub
 - Implementation of server-client systems and network communications management
 - Creation of custom features: gameplay scripts, economy, player interactions
