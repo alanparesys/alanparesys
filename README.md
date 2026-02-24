@@ -11,8 +11,6 @@ Hards skills
 Unity (C#)
 • Network programming for video games
 • Knowledge of video game production pipelines
-• Professional experience in modeling and acting (contracts
-signed)
 
 Languages
 •English - B2
