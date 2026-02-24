@@ -5,8 +5,8 @@ particularly in C++.
 - I have gained experience in network programming and several game engines, including Unreal Engine, CryEngine, and
 Unity (C#).
 
-Skills
-Hards skills
+## Skills
+### Hards skills
 - C++ programming (7+ years of experience)
 - Development on game engines: Unreal Engine, CryEngine,
 Unity (C#)
