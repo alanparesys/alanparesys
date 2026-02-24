@@ -1,7 +1,33 @@
-# 💫 About Me:
-## 🎮 Game Programming Student<br><br>I'm a 19-year-old Game Programming student at ISART Digital.<br><br>I primarily code in C++, C#, and C, with a strong interest in gameplay programming, engine systems, and performance optimization.
+# About Me:
+## Game Programmer – 1st year at Isart-Digital Paris
+Passionate about new technologies since childhood, I have been developing my programming skills for over 7 years,
+particularly in C++. I have gained experience in network programming and several game engines, including Unreal Engine, CryEngine, and
+Unity (C#).
+
+Skills
+Hards skills
+• C++ programming (7+ years of experience)
+• Development on game engines: Unreal Engine, CryEngine,
+Unity (C#)
+• Network programming for video games
+• Knowledge of video game production pipelines
+• Professional experience in modeling and acting (contracts
+signed)
+
+Languages
+•English - B2
+•Spanish - B2
 
 # 🛠️ Open Source Work
+
+## MCX
+- **Development of a multiplayer platform for Minecraft, in C++, Java, and Lua
+- Open source project: code sharing and collaboration with the community on GitHub
+- Implementation of server-client systems and network communications management
+- Creation of custom features: gameplay scripts, economy, player interactions
+- Complete project management: design, programming, testing, optimization, and documentation
+- Independent development and complex problem solving
+- Strengthening of skills in software architecture, network programming, and collaboration on community projects
 
 ### OpenClaw
 - **Docs: Telegram inbound troubleshooting** – Added a troubleshooting section to the Telegram channel docs for the case where messages reach the Telegram Bot API but never make it to the Agent.
