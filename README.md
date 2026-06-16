@@ -1,5 +1,5 @@
 # About Me:
-## Game Programmer – 1st year at Isart-Digital Paris
+## Game Programmer – 2st year at Isart-Digital Paris
 - Passionate about new technologies since childhood, I have been developing my programming skills for over 7 years,
 particularly in C++.
 - I have gained experience in network programming and several game engines, including Unreal Engine, CryEngine, and
